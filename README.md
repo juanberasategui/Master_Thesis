@@ -1,4 +1,4 @@
-# Master Thess: Empirical Asset Pricing via Neural Networks and Macroeconomic Data
+# Master Thesis: Empirical Asset Pricing via Neural Networks and Macroeconomic Data
 
 - I am writing the thesis this semester (Fall 2023), and consequently, everything posted on this repository is open to changes.
 - The code, alongside the data, used for the thesis will be posted here once the thesis is handed in (ca. December 2023). If interested on it before it is published, you can contact me.
